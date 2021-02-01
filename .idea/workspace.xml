@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be9f54f3-55ad-459f-afcc-516608ae475f" name="Default Changelist" comment="" />
+    <list default="true" id="be9f54f3-55ad-459f-afcc-516608ae475f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,12 +52,29 @@
       <option name="presentableId" value="Default" />
       <updated>1611418665548</updated>
     </task>
+    <task id="LOCAL-00001" summary="New repo">
+      <created>1612193622364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612193622365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="New repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="New repo" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="3147" y="342" key="CommitChangelistDialog2" timestamp="1612193621226">
+      <screen x="2560" y="242" width="1920" height="1040" />
+    </state>
+    <state x="3147" y="342" key="CommitChangelistDialog2/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612193621226" />
     <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1612167634193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
