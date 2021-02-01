@@ -1,0 +1,25 @@
+body{
+
+}
+
+h1{
+color:red;
+}
+
+#hello{
+color:green;
+}
+
+button{
+background:red;
+color:white;
+}
+
+button#btn:hover{
+background-color:blue;
+color:green;
+}
+
+input.check{
+    background-color:blue;
+}

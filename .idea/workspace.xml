@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be9f54f3-55ad-459f-afcc-516608ae475f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nTem3cGCjXgW3KGHW7QGPsB9Pc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MavenProject" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be9f54f3-55ad-459f-afcc-516608ae475f" name="Default Changelist" comment="" />
+      <created>1611418665548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611418665548</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1612167634193">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680/2560.242.1920.1040@0.0.1280.680" timestamp="1612167634193" />
+    <state x="3317" y="468" key="RollbackChangesDialog" timestamp="1612193537084">
+      <screen x="2560" y="242" width="1920" height="1040" />
+    </state>
+    <state x="3317" y="468" key="RollbackChangesDialog/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612193537084" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1611425194242">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680/2560.242.1920.1040@0.0.1280.680" timestamp="1611425194242" />
+    <state x="705" y="0" width="575" height="680" key="find.popup" timestamp="1611424933672">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="705" y="0" width="575" height="680" key="find.popup/0.0.1280.680/2560.242.1920.1040@0.0.1280.680" timestamp="1611424933672" />
+    <state x="303" y="2" width="672" height="678" key="search.everywhere.popup" timestamp="1611422217236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="2" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/2560.242.1920.1040@0.0.1280.680" timestamp="1611422217236" />
+  </component>
+</project>
