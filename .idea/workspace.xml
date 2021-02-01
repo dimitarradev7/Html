@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -59,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612193622365</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New repo">
+      <created>1612193682137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612193682137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -71,10 +83,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="New repo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3147" y="342" key="CommitChangelistDialog2" timestamp="1612193621226">
+    <state x="3147" y="342" key="CommitChangelistDialog2" timestamp="1612193680981">
       <screen x="2560" y="242" width="1920" height="1040" />
     </state>
-    <state x="3147" y="342" key="CommitChangelistDialog2/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612193621226" />
+    <state x="3147" y="342" key="CommitChangelistDialog2/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612193680981" />
     <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1612167634193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -87,10 +99,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680/2560.242.1920.1040@0.0.1280.680" timestamp="1611425194242" />
+    <state x="3112" y="497" key="Vcs.Push.Dialog.v2" timestamp="1612194535921">
+      <screen x="2560" y="242" width="1920" height="1040" />
+    </state>
+    <state x="3112" y="497" key="Vcs.Push.Dialog.v2/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612194535920" />
+    <state x="3341" y="678" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612194331293">
+      <screen x="2560" y="242" width="1920" height="1040" />
+    </state>
+    <state x="3341" y="678" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612194331293" />
     <state x="705" y="0" width="575" height="680" key="find.popup" timestamp="1611424933672">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="705" y="0" width="575" height="680" key="find.popup/0.0.1280.680/2560.242.1920.1040@0.0.1280.680" timestamp="1611424933672" />
+    <state x="3321" y="670" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612194381683">
+      <screen x="2560" y="242" width="1920" height="1040" />
+    </state>
+    <state x="3321" y="670" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612194381683" />
     <state x="303" y="2" width="672" height="678" key="search.everywhere.popup" timestamp="1611422217236">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
