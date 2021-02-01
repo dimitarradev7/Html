@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be9f54f3-55ad-459f-afcc-516608ae475f" name="Default Changelist" comment="" />
+    <list default="true" id="be9f54f3-55ad-459f-afcc-516608ae475f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="NewTourtoiseBranch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612193682137</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="remove">
+      <created>1612194880575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612194880575</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -81,14 +90,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="remove" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3147" y="342" key="CommitChangelistDialog2" timestamp="1612193680981">
+    <state x="3147" y="342" key="CommitChangelistDialog2" timestamp="1612194879011">
       <screen x="2560" y="242" width="1920" height="1040" />
     </state>
-    <state x="3147" y="342" key="CommitChangelistDialog2/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612193680981" />
-    <state x="3000" y="471" key="DiffContextDialog" timestamp="1612194836753">
+    <state x="3147" y="342" key="CommitChangelistDialog2/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612194879011" />
+    <state x="3000" y="471" key="DiffContextDialog" timestamp="1612194892147">
       <screen x="2560" y="242" width="1920" height="1040" />
     </state>
-    <state x="3000" y="471" key="DiffContextDialog/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612194836753" />
+    <state x="3000" y="471" key="DiffContextDialog/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612194892147" />
     <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1612167634193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -101,10 +110,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680/2560.242.1920.1040@0.0.1280.680" timestamp="1611425194242" />
-    <state x="3112" y="497" key="Vcs.Push.Dialog.v2" timestamp="1612194851152">
+    <state x="3112" y="497" key="Vcs.Push.Dialog.v2" timestamp="1612196002348">
       <screen x="2560" y="242" width="1920" height="1040" />
     </state>
-    <state x="3112" y="497" key="Vcs.Push.Dialog.v2/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612194851152" />
+    <state x="3112" y="497" key="Vcs.Push.Dialog.v2/0.0.1280.680/2560.242.1920.1040@2560.242.1920.1040" timestamp="1612196002348" />
     <state x="3341" y="678" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612194331293">
       <screen x="2560" y="242" width="1920" height="1040" />
     </state>
